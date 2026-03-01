@@ -1,0 +1,17 @@
+# Streamlit framework
+streamlit==1.31.0
+
+# Data handling
+pandas==2.1.4
+
+# Google Gemini API
+google-generativeai==0.3.2
+
+# Supabase database
+supabase==2.3.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# For deployment on Streamlit Cloud (included by default)
+# No additional requirements needed
